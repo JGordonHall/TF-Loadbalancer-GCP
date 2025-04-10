@@ -13,3 +13,7 @@
 
 #Ignore .jsonfiles
 *.json
+
+#Ignore .terraform/
+*.terraform/*
+.terraform./*
